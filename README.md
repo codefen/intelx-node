@@ -19,6 +19,15 @@ npm install
 npm start
 ```
 
+---
+
+**Note:** This API requires to set up the ENV viariables in order to use it such as:
+
+- **INTEL_KEY** `- Intelx key`
+- **INTEL_DOMAIN** `- Intelx endpoint`
+
+---
+
 ## API routes
 
 The backend provides several endpoints based off the intelx documentation.
@@ -42,10 +51,3 @@ The backend provides several endpoints based off the intelx documentation.
 
 - **Endpoint:** `POST /v1/intel/readByUrl`
 - **Description:** Reads the entire content of a document file from a URL.
-
----
-
-**Note:** This API requires to set up the ENV viariables in order to use it such as:
-
-- **INTEL_KEY** `- Intelx key`
-- **INTEL_DOMAIN** `- Intelx endpoint`
