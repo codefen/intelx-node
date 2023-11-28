@@ -1,5 +1,5 @@
 {
-  "name": "codefend-node-intel",
+  "name": "node-intel",
   "version": "0.0.1",
   "description": "IntelX API implementation in NodeJS",
   "type": "commonjs",
@@ -23,5 +23,5 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Codefend"
+  "author": "Intel"
 }
