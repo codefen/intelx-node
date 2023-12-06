@@ -51,3 +51,8 @@ The backend provides several endpoints based off the intelx documentation.
 
 - **Endpoint:** `POST /v1/intel/readByUrl`
 - **Description:** Reads the entire content of a document file from a URL.
+
+## Pending / Todo API routes
+
+- **Endpoint:** `a`
+- **Description:** b.
